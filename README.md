@@ -7,8 +7,8 @@ apk下载体验：https://www.pgyer.com/vksx<br>
 
 页面预览
 
-<img src="images/1.jpeg" width="32%" />  <img src="images/2.jpeg" width="32%" />  <img src="images/3.jpeg" width="32%" />
-<img src="images/4.jpeg" width="32%" /> 
+<img src="images/1.png" width="32%" />  <img src="images/2.png" width="32%" />  <img src="images/3.png" width="32%" />
+<img src="images/4.png" width="32%" /> 
 
 ## Getting Started
 

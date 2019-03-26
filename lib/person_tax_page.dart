@@ -56,7 +56,7 @@ class PersonTaxState extends State<PersonTax> {
     return Card(
       child: ListTile(
         title: Text(
-          "税前总计1: " + totalIncome + ", 到手: " + totalAfterTax,
+          "税前总计: " + totalIncome + ", 到手: " + totalAfterTax,
           style: _biggerFont,
         ),
         subtitle: Text(
